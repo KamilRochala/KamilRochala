@@ -41,11 +41,11 @@
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-rochala-69a5493a0/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/YOUR_GITLAB_USERNAME)
+[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/KamilRochala)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rochalakamil2@gmail.com)
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jukusaka&label=Profile%20views&color=0e75b6&style=flat" alt="Kamil Rochala" />
+  <img src="https://komarev.com/ghpvc/?username=KamilRochala&label=Profile%20views&color=0e75b6&style=flat" alt="Kamil Rochala" />
 </p>
