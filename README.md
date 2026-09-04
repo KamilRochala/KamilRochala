@@ -27,7 +27,7 @@
 
 ### Languages
 - **Polish:** Native
-- **English:** B2/C1
+- **English:** C1
 
 ---
 
